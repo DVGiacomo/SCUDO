@@ -23,6 +23,7 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |L'azienda ha solo una casella postale                         |:shit:|
 |   |L'indirizzo dell'azienda è falso/non disponibile              |:shit::shit::shit:|
 |   |Membri molto altisonanti... ma sconosciuti |:shit:|
+|   |Membri molto altisonanti... e dai vestiti luccicanti |:shit:|
 |   |Membri non su linkedin o senza profili social utili|:shit:|
 |   |Membri con profili social falsi/anonimi |:shit::shit:|
 |   |Sponsorizzata da funzionari o politici vari |:shit:|
@@ -60,5 +61,5 @@ La seguente è una lista di **elementi indiziari** tipici delle scam-coin e dell
 |   |Esiste **un solo wallet**  |:shit::shit::shit:|
 |   |Non c'è traccia della manutenzione del codice |:shit:|
 |   |E' la *"Blockchain X.0"* (con X>2) |:shit:|
-|   |usa Proff of "qualcosa di insensato" |:shit::shit:|
+|   |usa Proof of "qualcosa di insensato" |:shit::shit:|
 |   |Gira su blockchain privata |:shit::shit::shit::shit:|
